@@ -5,7 +5,7 @@ We create some synthetic data to train the [Pix2Pix](https://github.com/phillipi
 
 A strawberry model is provided in Models
 
-To run the moedel to test the offline image:
+To run the model to test the offline image:
 
     python3 gan_offline.py
     
